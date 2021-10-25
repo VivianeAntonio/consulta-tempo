@@ -62,8 +62,8 @@ function App() {
         </div>
         <div class="rodape bg-primary text-center py-3">
           <span class="text-light"> © 2021 - Desenvolvido por Viviane Antonio da Silva |
-          <a href="https://github.com/VivianeAntonio" title="Confira meus projetos!" target="_blank" class="link"> GitHub </a> |
-          <a href="https://www.linkedin.com/in/vivianeantoniodasilva/" title="Me encontre no Linkedin" target="_blank" class="link"> Linkedin </a>
+          <a href="https://github.com/VivianeAntonio" title="Confira meus projetos!" class="link"> GitHub </a> |
+          <a href="https://www.linkedin.com/in/vivianeantoniodasilva/" title="Me encontre no Linkedin" class="link"> Linkedin </a>
           </span>
         </div>
       </main>
